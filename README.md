@@ -1,7 +1,7 @@
 Google Scripts
 ======
 
-_This is really just a collection of little projects I make while playing around with Google Apps Scripts_
+_This is really just a collection of little projects I make or encounter while playing around with Google Apps Scripts_
 
 > Google Apps Script is a scripting language based on JavaScript that lets you do new and cool things with G Suite products like Docs, Sheets, Slides, and Forms. There's nothing to install — they give you a code editor right in your browser, and your scripts run on Google's servers.
 
