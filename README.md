@@ -9,10 +9,11 @@ _This is really just a collection of little projects I make while playing around
 
 ### So far I have examples of
 + Sheets: _automated email scripts_
++ Sheets: _gmail filters_
 
 | Google Apps   | Completed?    |
 | ------------- |:-------------:|
 |   Sheets      |    `Yes`      | 
-|   Docs        |    `No`       |   
+|   Gmail       |    `Yes`      |   
 |   Slides      |    `No`       |
 |   Forms       |    `No`       |    
